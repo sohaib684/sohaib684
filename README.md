@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohaib</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **Imagr Processing**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **Gatsby**
 
 - 💬 Ask me about **Anything you like!**
 
