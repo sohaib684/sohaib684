@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sohaib</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **developing my skillsets**
 
-- 🌱 I’m currently learning **Gatsby**
+- 🌱 I’m currently learning **langchain framework using ollama model**
 
-- 💬 Ask me about **Anything you like!**
+- 💬 Ask me about **Anything you like about current technology!**
 
 - 📫 How to reach me **sohaibalam27022001@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **There must be a universal language**
 
 <p align="left">
 </p>
