@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing my skillsets**
 
-- 🌱 I’m currently learning **langchain framework using ollama model**
+- 🌱 I’m currently learning **web application tools**
 
 - 💬 Ask me about **Anything you like about current technology!**
 
