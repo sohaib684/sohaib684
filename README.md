@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing my skillsets**
 
-- 🌱 I’m currently learning **web application tools**
+- 🌱 I’m currently learning *Generative AI agent tools**
 
 - 💬 Ask me about **Anything you like about current technology!**
 
