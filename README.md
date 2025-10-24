@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohaib</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 - 🔭 I’m currently working on **developing my skillsets**
 
-- 🌱 I’m currently learning *Generative AI agent tools**
+- 🌱 I’m currently learning *Network security tools**
 
 - 💬 Ask me about **Anything you like about current technology!**
 
