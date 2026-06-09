@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 Computer Science Graduate (2023)
 - 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **Advanced Java, Spring Boot & React**
+- 🌱 Currently learning **Advanced Java, Spring Boot ,AWS & React**
 - 🎯 Goal: Crack a job in a top MNC
 - ⚡ Fun fact: I love exploring new tech & trends in AI
 
