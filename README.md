@@ -1,95 +1,109 @@
-<h1 align="center">Hi 👋, I'm Sohaib</h1>
-<h3 align="center">Full Stack Developer | Java | Spring Boot | Web Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sohaib Alam</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot | Angular 21 | AWS Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 Computer Science Graduate (2023)
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **Advanced Java, Spring Boot ,AWS & Angular**
-- 🎯 Goal: Crack a job in a top MNC
-- ⚡ Fun fact: I love exploring new tech & trends in AI
+## 🚀 About Me
+
+* 🎓 Computer Science Graduate (2023)
+* 💻 Passionate about Java Full Stack Development
+* 🌱 Currently learning Angular, Microservices, AWS and System Design
+* 🔍 Interested in Backend Development, Cloud Technologies, and AI Trends
+* 🎯 Goal: Secure a Java Full Stack Developer role in a top MNC
+* ⚡ Fun Fact: I enjoy exploring emerging technologies and industry trends
 
 ---
 
-### 🌐 Connect with me:
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/sohaib-alam786/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/sohaib-alam786/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="40" height="40"/>
 </a>
+
 <a href="mailto:sohaibalam27022001@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" width="40" height="40"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+## 💻 Tech Stack
 
-<p align="left">
+### Backend
 
-<!-- Java -->
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
+* Java
+* Spring Framework
+* Spring Boot
+* Spring Security
+* JWT Authentication
+* REST APIs
+* Hibernate
+* JPA
+* Microservices
 
-<!-- Spring -->
-<a href="https://spring.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-</a>
+### Frontend
 
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-</a>
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript (ES6+)
+* TypeScript
+* Angular
 
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
+### Database
 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+* MySQL
 
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
+### Cloud & DevOps
 
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</a>
+* AWS
+* Docker
 
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
+### Tools & Platforms
 
-</p>
+* Git
+* GitHub
+* Postman
+* Maven
+* IntelliJ IDEA
+* VS Code
+* Linux
+* Jira
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sohaib684&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.vercel.com/?user=sohaib684&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=sohaib684&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib684&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🔥 Top Projects:
-- 💼 Full Stack E-commerce App (Java + React)
-- 📱 REST API using Spring Boot
-- 🔐 Authentication System (JWT)
+## 📈 Current Focus
+
+* Building Full Stack Applications
+* Spring Boot & Microservices
+* Angular Development
+* AWS Cloud Services
+* Data Structures & Algorithms
+* System Design Fundamentals
 
 ---
 
-### 💡 Quote:
-_"Code. Learn. Repeat. Stay consistent."_
+## 💡 Quote
+
+> "Code. Learn. Improve. Repeat."
+
+---
+
+⭐ Always learning, building, and growing as a developer.
