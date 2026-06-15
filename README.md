@@ -75,11 +75,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=sohaib684&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaib684&theme=radical" />
 </p>
 
 ---
