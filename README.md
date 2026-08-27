@@ -7,7 +7,7 @@
 
 * 🎓 Computer Science Graduate (2023)
 * 💻 Passionate about Java Full Stack Development
-* 🌱 Currently learning  Microservices, AWS and Kubernetes(K8s)
+* 🌱 Currently learning  Mock testing , AWS and Kubernetes(K8s)
 * 🔍 Interested in Backend Development, Cloud Technologies, and AI Trends
 * 🎯 Goal: Secure a Java Full Stack Developer role in a top MNC
 * ⚡ Fun Fact: I enjoy exploring emerging technologies and industry trends
