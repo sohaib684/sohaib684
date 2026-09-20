@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohaib Alam</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | Angular 21 | AWS Enthusiast</h3>
+<h3 align="center">Java Developer | Spring Boot | Microservices | AWS </h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 * 🎓 Computer Science Graduate (2023)
 * 💻 Passionate about Java Full Stack Development
-* 🌱 Currently learning  Mock testing , AWS and Kubernetes(K8s)
+* 🌱 Currently learning  Angular 21 and Kubernetes(K8s)
 * 🔍 Interested in Backend Development, Cloud Technologies, and AI Trends
 * 🎯 Goal: Secure a Java Full Stack Developer role in a top MNC
 * ⚡ Fun Fact: I enjoy exploring emerging technologies and industry trends
